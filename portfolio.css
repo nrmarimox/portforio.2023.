@@ -45,6 +45,8 @@ body {
   width: 100%;
   background-image: url(602270_l.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
   width: 100%;
 }
 .content-title {
